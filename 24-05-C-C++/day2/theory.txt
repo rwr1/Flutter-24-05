@@ -1,0 +1,21 @@
+1-What is the structure of c language..???
+
+Documention section		= program defination
+/*  */
+
+Library section			= header files 
+#include<>
+
+preprocessor Directivity	=constant value
+#define	pi=3.14
+
+globle variable declaration
+
+void main()				= it is a main part program
+{
+}
+
+user-define function section	= user define functions
+
+
+
